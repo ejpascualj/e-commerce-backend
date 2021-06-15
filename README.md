@@ -13,7 +13,7 @@ https://github.com/ejpascualj/e-commerce-backend
 
 ![e-Commerce Backend demo](./assets/e-commerce-backend-demo.gif/)
 
-video: https://drive.google.com/file/d/1pmlZLsl5PqCvTCQddWaY09fWG2DJDgXM/view?usp=sharing (also available as mp4 in the 'assets' folder)
+video: https://drive.google.com/file/d/1pmlZLsl5PqCvTCQddWaY09fWG2DJDgXM/view?usp=sharing (also available as mp4 in the [assets](./assets/e-commerce-backend-demo.mp4/) folder)
 
 
 ## Installation
